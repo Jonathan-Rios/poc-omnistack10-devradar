@@ -1,9 +1,5 @@
-img[src*="#omnistack"] {
- border-radius: 25px;
-}
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png#omnistack" height="350" width="850" style="border-radius: 25px;"></img>
+  <img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png#omnistack" height="350" width="850" border-radius="25px"></img>
 </p>
 <h1 align="center">Semana Omnistack 10</h1>
 
