@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png#omnistack" height="350" width="850" border-radius="25px"></img>
+  <img src="https://user-images.githubusercontent.com/70285547/93002743-6f5e7f80-f50f-11ea-8af7-322daf97f659.png#omnistack" height="350" width="850"></img>
 </p>
 <h1 align="center">Semana Omnistack 10</h1>
 
@@ -58,11 +58,11 @@ Para testar, instale o Insomnia
 
 ### Web
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/92416513-3f406680-f134-11ea-925a-371a753b77ba.png" height="350" width="1000">
+  <img src="https://user-images.githubusercontent.com/70285547/93022631-a771cb00-f5c0-11ea-91c8-93fbb5e04fa7.png" height="350" width="1000">
 </p>
 
 ### Mobile
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/92416549-6008bc00-f134-11ea-99eb-518e9fe0f657.png" height="400" width="1000">
+  <img src="https://user-images.githubusercontent.com/70285547/93022634-b193c980-f5c0-11ea-8ca0-1cb3c02aafcb.png" height="400" width="1000">
 </p>
 
