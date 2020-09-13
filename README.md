@@ -58,7 +58,7 @@ Para testar, instale o Insomnia
 
 ### Web
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/93022631-a771cb00-f5c0-11ea-91c8-93fbb5e04fa7.png" height="350" width="1000">
+  <img src="https://user-images.githubusercontent.com/70285547/93022631-a771cb00-f5c0-11ea-91c8-93fbb5e04fa7.png" height="800" width="500" >
 </p>
 
 ### Mobile
