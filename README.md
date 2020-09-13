@@ -41,7 +41,7 @@
 # Dependências do Projeto
 
 ## Front-end Web
-Veja em [frontend/README.md](./frontend) para informações sobre o Front-end Web.
+Veja em [web/README.md](./web) para informações sobre o Front-end Web.
 
 ## Front-end Mobile
 Veja em [mobile/README.md](./mobile) para informações sobre o Front-end Mobile.
