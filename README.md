@@ -58,11 +58,11 @@ Para testar, instale o Insomnia
 
 ### Mobile
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/93022634-b193c980-f5c0-11ea-8ca0-1cb3c02aafcb.png" height="400" width="1000">
+  <img src="https://user-images.githubusercontent.com/70285547/93022634-b193c980-f5c0-11ea-8ca0-1cb3c02aafcb.png" height="350" width="1000">
 </p>
 
 ### Web
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70285547/93022631-a771cb00-f5c0-11ea-91c8-93fbb5e04fa7.png" height="1600" width="1000" >
+  <img src="https://user-images.githubusercontent.com/70285547/93022631-a771cb00-f5c0-11ea-91c8-93fbb5e04fa7.png" height="1300" width="1000" >
 </p>
 
